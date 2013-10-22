@@ -1,7 +1,7 @@
 print "This program prints out the first 1000 prime numbers\r"
 
 // We know 1, 2 and 3 and prime numbers and so they don't need to be calculated. The loop then starts from 4
-// as we are printing a 1000 numbers, we might need to split output across 1000 lines - check on Monday
+// as we are printing a 1000 numbers, we could have split output across 1000 lines
 
 int potentialPrime=4
 int primeNumberCount=3
